@@ -1,5 +1,5 @@
 - Hi, here is Albertc9!
-- My personal website is albertc9.github.io, and you can browse it to know more about me.
+- My personal website is [here](albertc9.github.io), and you can browse it to know more about me.
 
 <!---
 albertc9/albertc9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
