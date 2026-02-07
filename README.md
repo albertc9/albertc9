@@ -1,9 +1,36 @@
-<!---
-albertc9/albertc9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=%E9%9D%99%E6%AD%A2%E6%80%BB%E6%9C%89%E4%B8%80%E4%B8%9D%E5%93%8D%E5%8A%A8%EF%BC%8C%E9%82%A3%E6%98%AF%E7%81%B5%E9%AD%82%E6%B2%89%E6%B2%89%E6%B5%AE%E6%B5%AE%E3%80%82)](https://git.io/typing-svg)
+<div align="center">
 
-- Hi, here is Albertc9!
-- My personal website is [here](https://albertc9.github.io), and you can browse it to know more about me.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&color=2563EB&center=true&vCenter=true&width=550&lines=Hi,+I'm+Albert;Welcome+Here!" alt="Typing SVG" />
 
+  <h3>HEP Student</h3>
+
+  <p>
+    I stand at the intersection of high-energy physics and hardware design. <br>
+  </p>
+
+  <a href="https://albertcheung.net">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Verilog-F7DF1E?style=flat-square&logo=verilog&logoColor=black" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+
+  <br><br>
+
+  <div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=albertc9&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=2563EB&text_color=555"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertc9&layout=compact&theme=transparent&hide=html,css&hide_border=true&title_color=2563EB&text_color=555"/>
+    </a>
+  </div>
+
+  <br>
+  <p><i>"Do not store up for yourselves treasures on earth… But store up for yourselves treasures in heaven."</i></p>
+
+</div>
