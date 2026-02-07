@@ -5,8 +5,6 @@
     Welcome to my personal website <a href="https://albertcheung.net" style="color: #2563EB; text-decoration: none; font-weight: bold;">albertcheung.net</a>
   </p>
 
-  <h3>HEP Student</h3>
-
   <p>
     I stand at the intersection of high-energy physics and hardware design. <br>
     Currently working on <b>AI Trigger Systems</b> using CNNs and FPGAs.
