@@ -32,10 +32,10 @@
   </div>
 
 <div align="center">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img src="https://streak-stats.demolab.com/?user=albertc9&theme=transparent&hide_border=true&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&currStreakNum=555&sideLabels=555&sideNums=555&dates=555" />
-    </a>
-  </div>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=albertc9&theme=transparent&hide_border=true&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&currStreakNum=333333&sideLabels=333333&sideNums=333333&dates=333333&v=1" />
+  </a>
+</div>
 
   <br>
   <h3>Recent News</h3>
@@ -48,10 +48,6 @@
     </a>
   </p>
   <br>
-
-  
-
-
 
   <br>
   <a href="mailto:albert.cheung@cern.ch">
