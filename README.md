@@ -23,12 +23,12 @@
 
   <br><br>
 
-  <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="160" src="https://github-readme-stats-one-black-62.vercel.app/api?username=albertc9&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&text_color=555"/>
-      <img height="160" src="https://github-readme-stats-one-black-62.vercel.app/api/top-langs/?username=albertc9&layout=compact&theme=transparent&hide=html,css&hide_border=true&title_color=2563EB&text_color=555"/>
-    </a>
-  </div>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160" src="https://github-readme-stats-one-black-62.vercel.app/api?username=albertc9&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&text_color=555&v=2"/>
+    <img height="160" src="https://github-readme-stats-one-black-62.vercel.app/api/top-langs/?username=albertc9&layout=compact&theme=transparent&hide=html,css&hide_border=true&title_color=2563EB&text_color=555&v=2"/>
+  </a>
+</div>
 
   <br>
   <p><i>"Do not store up for yourselves treasures on earth… But store up for yourselves treasures in heaven."</i></p>
