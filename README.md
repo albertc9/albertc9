@@ -31,23 +31,24 @@
     </a>
   </div>
 
+<div align="center">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img src="https://streak-stats.demolab.com/?user=albertc9&theme=transparent&hide_border=true&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&currStreakNum=555&sideLabels=555&sideNums=555&dates=555" />
+    </a>
+  </div>
+
   <br>
-  <h3>Very Recent News</h3>
+  <h3>Recent News</h3>
   <p>
     <b>CEPC Technical Design Report -- Reference Detector</b> <br>
     <i>Albert L. Cheung, et al.</i> <br>
     <br>
-    <a href="https://doi.org/10.48550/ARXIV.2510.05260">
+    <a href="https://doi.org/10.48550/arXiv.2510.05260">
       <img src="https://img.shields.io/badge/arXiv-2510.05260-B31B1B?style=flat-square&logo=arxiv&logoColor=white" />
     </a>
   </p>
   <br>
 
-  <div align="center">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img src="https://streak-stats.demolab.com/?user=albertc9&theme=transparent&hide_border=true&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&currStreakNum=555&sideLabels=555&sideNums=555&dates=555" />
-    </a>
-  </div>
   
 
 
