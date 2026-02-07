@@ -24,14 +24,14 @@
 
   <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="160" src="https://github-readme-stats-one-black-62.vercel.app/api?username=albertc9&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&text_color=55555&v=15"/>
-      <img height="160" src="https://github-readme-stats-one-black-62.vercel.app/api/top-langs/?username=albertc9&layout=compact&theme=transparent&hide=html,css&hide_border=true&title_color=2563EB&text_color=55555&v=15"/>
+      <img height="160" src="https://github-readme-stats-one-black-62.vercel.app/api?username=albertc9&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&text_color=55555&v=16"/>
+      <img height="160" src="https://github-readme-stats-one-black-62.vercel.app/api/top-langs/?username=albertc9&layout=compact&theme=transparent&hide=html,css&hide_border=true&title_color=2563EB&text_color=55555&v=16"/>
     </a>
   </div>
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=albertc9&theme=transparent&hide_border=true&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&currStreakNum=55555&sideLabels=55555&sideNums=55555&dates=55555&v=1" />
+    <img src="https://streak-stats.demolab.com/?user=albertc9&theme=transparent&hide_border=true&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&currStreakNum=55555&sideLabels=55555&sideNums=55555&dates=55555&v=2" />
   </a>
 </div>
 
