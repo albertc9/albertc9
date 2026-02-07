@@ -31,7 +31,7 @@
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=albertc9&theme=transparent&hide_border=true&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&currStreakNum=55555&sideLabels=55555&sideNums=55555&dates=55555&v=2" />
+    <img src="https://streak-stats.demolab.com/?user=albertc9&theme=transparent&hide_border=true&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&currStreakNum=55555&sideLabels=55555&sideNums=55555&dates=55555&v=1" />
   </a>
 </div>
 
