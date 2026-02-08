@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/Verilog-F7DF1E?style=flat-square&logo=verilog&logoColor=black" />
   <img src="https://img.shields.io/badge/CERN_ROOT-0053A1?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 
   <br><br>
 
