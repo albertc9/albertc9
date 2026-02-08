@@ -23,8 +23,8 @@
 
   <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="160" src="https://github-readme-stats-one-black-62.vercel.app/api?username=albertc9&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&text_color=55555&v=17"/>
-      <img height="160" src="https://github-readme-stats-one-black-62.vercel.app/api/top-langs/?username=albertc9&layout=compact&theme=transparent&hide=html,css&hide_border=true&title_color=2563EB&text_color=55555&v=17"/>
+      <img height="160" src="https://github-readme-stats-one-black-62.vercel.app/api?username=albertc9&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&text_color=55555&v=20"/>
+      <img height="160" src="https://github-readme-stats-one-black-62.vercel.app/api/top-langs/?username=albertc9&layout=compact&theme=transparent&hide=html,css&hide_border=true&title_color=2563EB&text_color=55555&v=20"/>
     </a>
   </div>
 
