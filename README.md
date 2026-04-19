@@ -6,8 +6,8 @@
   </p>
 
   <p>
-    I stand at the intersection of high-energy physics and hardware design. <br>
-    Currently working on <b>AI Trigger Systems</b> using CNNs and FPGAs.
+    I develop hardware architectures for high-energy physics instrumentation, with a focus on FPGA prototyping.
+    Currently, I am architecting an FPGA-based AI trigger system using parallel CNN inference for next-generation neutrino detectors and developing a radiation-tolerant RISC-V SoC.
   </p>
 
   <br>
