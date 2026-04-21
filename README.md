@@ -41,7 +41,7 @@
       <tr>
         <td align="center" width="500px"> <br>
           <b>CEPC Technical Design Report -- Reference Detector</b> <br>
-          <span style="color: #555;">Albert L. Cheung, et al.</span> <br>
+          <span style="color: #555;">Albert L. ZHANG, et al.</span> <br>
           <br>
           <a href="https://doi.org/10.48550/arXiv.2510.05260">
             <img src="https://img.shields.io/badge/arXiv-2510.05260-B31B1B?style=flat-square&logo=arxiv&logoColor=white" />
