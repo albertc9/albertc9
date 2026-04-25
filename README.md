@@ -60,7 +60,7 @@
   <a href="https://orcid.org/0009-0009-3715-2685">
     <img src="https://img.shields.io/badge/ORCID-0009--0009--3715--2685-A6CE39?style=flat-square&logo=orcid&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/albert-l-cheung-6a002328b/">
+  <a href="https://www.linkedin.com/in/albert-l-zhang-6a002328b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <br><br>
