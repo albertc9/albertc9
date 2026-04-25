@@ -60,9 +60,6 @@
   <a href="https://orcid.org/0009-0009-3715-2685">
     <img src="https://img.shields.io/badge/ORCID-0009--0009--3715--2685-A6CE39?style=flat-square&logo=orcid&logoColor=white" />
   </a>
-  <a href="https://scholar.google.com/citations?user=KyDvvvQAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/albert-l-cheung-6a002328b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
