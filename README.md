@@ -7,7 +7,7 @@
 
   <p>
     I develop hardware architectures for high-energy physics instrumentation, with a focus on FPGA prototyping.
-    Currently, I am architecting an FPGA-based AI trigger system using parallel CNN inference for next-generation neutrino detectors and developing a radiation-tolerant RISC-V SoC.
+    Currently, I'm developing a real-time full-band AI trigger for radio-based HE $\nu$ detectors.
   </p>
 
   <br>
