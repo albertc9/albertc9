@@ -7,7 +7,7 @@
 
   <p>
     I develop hardware architectures for high-energy physics instrumentation, with a focus on FPGA prototyping.
-    Currently, I'm developing a real-time full-band AI trigger for radio-based HE $\nu$ detectors.
+    Currently, I'm developing a real-time full-band AI trigger for radio-based HE $\nu$ detectors. At the same time, we are upgrading the HERIS-V2 project, a radiation-hardened RISC-V processor designed for readout or front-end processing in HEP.
   </p>
 
   <br>
