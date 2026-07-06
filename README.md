@@ -31,34 +31,9 @@
   </a>
 </div>
 
-  <br>
-  <h3>Recent News</h3>
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center" width="500px"> <br>
-          <b>CEPC Technical Design Report -- Reference Detector</b> <br>
-          <span style="color: #555;">Albert L. ZHANG, et al.</span> <br>
-          <br>
-          <a href="https://doi.org/10.48550/arXiv.2510.05260">
-            <img src="https://img.shields.io/badge/arXiv-2510.05260-B31B1B?style=flat-square&logo=arxiv&logoColor=white" />
-          </a>
-          <br><br>
-        </td>
-      </tr>
-    </table>
-  </div>
-  <br>
-
 <br>
   <a href="mailto:albert.cheung@cern.ch">
     <img src="https://img.shields.io/badge/Email-albert.cheung@cern.ch-0053A1?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://orcid.org/0009-0009-3715-2685">
-    <img src="https://img.shields.io/badge/ORCID-0009--0009--3715--2685-A6CE39?style=flat-square&logo=orcid&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/albert-l-zhang-6a002328b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <br><br>
 
