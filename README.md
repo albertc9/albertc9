@@ -1,9 +1,6 @@
 <div align="center">
 
   <h1 style="font-family: 'Fira Code', monospace; font-size: 2.5rem; margin-bottom: 0;">Hi, I'm Albert</h1>
-  <p style="color: #555; font-size: 1.1rem; margin-top: 5px;">
-    Welcome to my personal website <a href="https://albertcheung.net" style="color: #2563EB; text-decoration: none; font-weight: bold;">albertcheung.net</a>
-  </p>
 
   <p>
     I develop hardware architectures for high-energy physics instrumentation, with a focus on FPGA prototyping.
